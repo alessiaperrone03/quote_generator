@@ -45,12 +45,6 @@ python quote_generator.py
 - Implement a **copy-to-clipboard** button.
 - Improve **UI design** with better styling.
 
-## 🐟 License
-This project is open-source and available under the **MIT License**.
-
----
-
-🌟 Feel free to **fork, contribute, or give a star** if you like this project! 🚀
 
 
  
